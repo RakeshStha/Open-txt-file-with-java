@@ -1,0 +1,33 @@
+*****************************************
+Title-author-publicher-price-pages-isbn
+*****************************************
+00Pmprogramming - Graham Winter - 0'Reilly - 34.50 - 150 -04797455555
+
+
+example:
+
+
+Title		: OOP programming
+Author		: Graham Winter 
+Publisher	: O'Reilly
+Price		: £32.50
+Pages		: 120 pages
+ISBN 		: 0471974555
+
+---------------------------------
+
+Title		: QoS
+Author		: Geoff Ferguson
+Publisher	: Wiley
+Price		: £12.99
+Pages		: 80 pages
+ISBN 		: 1991974123
+
+-------------------------------
+
+Title		: Java First
+Author		: Anthony Jones
+Publisher	: Pearson
+Price		: £8.00
+Pages		: 420 pages
+ISBN 		: 4321567321
